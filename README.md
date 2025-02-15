@@ -32,7 +32,8 @@ This project implements a **voice-controlled robot** using an **Arduino Leonardo
    - The predicted command is sent via **serial communication** (`pyserial`).
    - Arduino executes corresponding motor actions.
 ## Demo
+[video's link](https://drive.google.com/file/d/1pHrXH5elPMvx0C1SMg8o44wD7MbwBJkG/view?usp=drive_link)
 Here’s a screenshot of the project:
 ![pic1](https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9990.jpg)
 ![pic2](https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9996.jpg)
-![video's link](https://drive.google.com/file/d/1pHrXH5elPMvx0C1SMg8o44wD7MbwBJkG/view?usp=drive_link)
+
