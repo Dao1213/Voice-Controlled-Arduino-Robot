@@ -33,6 +33,6 @@ This project implements a **voice-controlled robot** using an **Arduino Leonardo
    - Arduino executes corresponding motor actions.
 ## Demo
 Here’s a screenshot of the project:
-video's link: (https://drive.google.com/file/d/1pHrXH5elPMvx0C1SMg8o44wD7MbwBJkG/view?usp=drive_link)
-(https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9990.jpg)
-(https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9996.jpg)
+![pic1](https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9990.jpg)
+![pic2](https://github.com/Dao1213/Voice-Controlled-Arduino-Robot/blob/main/IMG_9996.jpg)
+![video's link](https://drive.google.com/file/d/1pHrXH5elPMvx0C1SMg8o44wD7MbwBJkG/view?usp=drive_link)
